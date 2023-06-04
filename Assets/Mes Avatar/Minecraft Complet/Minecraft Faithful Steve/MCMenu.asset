@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: MCMenu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Animations
+    icon: {fileID: 2800000, guid: 0ba24261c78269c41a4e4cdf4e9c7b99, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 768f255b5ca437c46a75d403ac8903e9, type: 2}
+    subParameters: []
+    labels: []
+  - name: Weapons
+    icon: {fileID: 2800000, guid: cfc0dd55460c2c544a2065ee9d753c92, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: d2c4da08daaad1540a79265a4f46b1d0, type: 2}
+    subParameters: []
+    labels: []
+  - name: Blocks
+    icon: {fileID: 2800000, guid: 8e13b1c3f6c25534b8d0edf2e2c4f942, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: abb4aa015a160c04594b5bd8f88e4c1b, type: 2}
+    subParameters: []
+    labels: []
+  - name: Skin
+    icon: {fileID: 2800000, guid: a9877f9abcf9986439a117bc51108f64, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 1bacedc2cbce5e342ba50393555ba5fd, type: 2}
+    subParameters: []
+    labels: []
+  - name: Sounds
+    icon: {fileID: 2800000, guid: cf4e7232382dca8418f41aa9f3a72e27, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 28c2be30192ef2346bbe5cdea8351c8f, type: 2}
+    subParameters: []
+    labels: []

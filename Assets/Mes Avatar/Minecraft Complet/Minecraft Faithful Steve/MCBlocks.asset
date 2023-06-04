@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: MCBlocks
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Wood
+    icon: {fileID: 2800000, guid: 3afb48e2cf597234e9d8ed61b7a9fb1c, type: 3}
+    type: 102
+    parameter:
+      name: Wood
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Stone
+    icon: {fileID: 2800000, guid: 8e13b1c3f6c25534b8d0edf2e2c4f942, type: 3}
+    type: 102
+    parameter:
+      name: Stone
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Diamondblock
+    icon: {fileID: 2800000, guid: 16817f4a497972d4d91934729f744cc2, type: 3}
+    type: 102
+    parameter:
+      name: DiamondB
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

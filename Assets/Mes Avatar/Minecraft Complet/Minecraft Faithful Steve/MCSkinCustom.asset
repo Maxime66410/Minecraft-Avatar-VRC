@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: MCSkinCustom
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Homer
+    icon: {fileID: 2800000, guid: b804712751d367744ad9d84725bfb37e, type: 3}
+    type: 102
+    parameter:
+      name: Skin
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Laupok
+    icon: {fileID: 2800000, guid: b804712751d367744ad9d84725bfb37e, type: 3}
+    type: 102
+    parameter:
+      name: Skin
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Troll
+    icon: {fileID: 2800000, guid: b804712751d367744ad9d84725bfb37e, type: 3}
+    type: 102
+    parameter:
+      name: Skin
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Dreams
+    icon: {fileID: 2800000, guid: b804712751d367744ad9d84725bfb37e, type: 3}
+    type: 102
+    parameter:
+      name: Skin
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: RicardoMilos
+    icon: {fileID: 2800000, guid: b804712751d367744ad9d84725bfb37e, type: 3}
+    type: 102
+    parameter:
+      name: Skin
+    value: 5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: TheFantasio974
+    icon: {fileID: 2800000, guid: b804712751d367744ad9d84725bfb37e, type: 3}
+    type: 102
+    parameter:
+      name: Skin
+    value: 6
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Decim
+    icon: {fileID: 2800000, guid: b804712751d367744ad9d84725bfb37e, type: 3}
+    type: 102
+    parameter:
+      name: Skin
+    value: 7
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Menu 2
+    icon: {fileID: 2800000, guid: a9877f9abcf9986439a117bc51108f64, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 8
+    style: 0
+    subMenu: {fileID: 11400000, guid: 8b6970676f2bc1749b617e3012e79d99, type: 2}
+    subParameters: []
+    labels: []

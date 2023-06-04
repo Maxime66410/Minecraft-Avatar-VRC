@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: MCWeapons
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Sword
+    icon: {fileID: 2800000, guid: cfc0dd55460c2c544a2065ee9d753c92, type: 3}
+    type: 102
+    parameter:
+      name: Sword
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Axe
+    icon: {fileID: 2800000, guid: bb6d4eafbcf16f14dbf0dc49f03f274c, type: 3}
+    type: 102
+    parameter:
+      name: Axe
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Pickaxe
+    icon: {fileID: 2800000, guid: 9a7e79518719ce749b89eac118051b34, type: 3}
+    type: 102
+    parameter:
+      name: Pickaxe
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Bow
+    icon: {fileID: 2800000, guid: 3fe87d0b3631d5e43bea8bc2438e5921, type: 3}
+    type: 102
+    parameter:
+      name: Bow
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
